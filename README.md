@@ -17,8 +17,8 @@ This repository contains a Terraform-based solution for the AWS Technical Challe
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MSaracusti/AWS.git
-   cd AWS
+   git clone https://github.com/MSaracusti/AWS-Challenge.git
+   cd AWS-Challenge
 
 🧱 Architecture & Design Decisions
 
